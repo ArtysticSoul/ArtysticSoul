@@ -9,7 +9,7 @@ Sophomore pursuing B.Tech in Mathematics and Computing at the Indian Institute o
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [abhishek.iitd.maths@gmail.com](mailto:abhishek.iitd.maths@gmail.com)
 * 🧠  I'm learning Web Development and Machine Learning
-* 🤝  I'm open to collaborating on anything and everything that adds on to my CV
+* 🤝  I'm always looking for opportunities to join forces and create innovative solutions.
 
 ### Skills
 
